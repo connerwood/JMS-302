@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(185,179,175);
+    text-align:center;
+}
+p {
+    font-family: sans-serif;
+}
+h1, h2 {
+    font-family: sans-serif;
+    color: blue;
+}
