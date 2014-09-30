@@ -14,3 +14,14 @@ def ask question
     end
 likes_it = ask "Do you like eating pancakes?"
 puts likes_it
+
+
+
+def nontraditional_marriage(last_name, husband_last)
+     last_name += last_name + "-" + husband_last
+     puts last_name
+end
+
+last_name = "Schultz"
+nontraditional_marriage(last_name, "Wasserman")
+puts last_name
